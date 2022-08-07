@@ -17,8 +17,7 @@ int ABC(STUDENT stu[],char *perA,char *perB){
 					return 1;
 				}
 			}
-			
-		}
+			}
 		return 0;
 	}
 }
